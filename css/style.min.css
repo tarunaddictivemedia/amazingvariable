@@ -20,3 +20,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:sans-se
   font-style: normal;
   font-display: swap;
 }
+.changed-logo img {
+  filter: brightness(10) invert(1);
+}
